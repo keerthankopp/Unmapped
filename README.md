@@ -17,20 +17,6 @@
 
 Both frontend and backend are deployed on **Vercel**. The backend runs FastAPI as a serverless Python function. The frontend is a static React/Vite build. All API calls from the frontend point to the deployed backend — no local setup required to use the live app.
 
----
-
-## 🚀 Live Deployment
-
-| | URL |
-|---|---|
-| **Frontend** | https://unmapped-kztccg3tp-keerthanmooc-3639s-projects.vercel.app |
-| **Backend API** | https://unmapped-theta.vercel.app |
-| **API Docs** | https://unmapped-theta.vercel.app/docs |
-| **Repository** | https://github.com/keerthankopp/Unmapped |
-
-Both frontend and backend are deployed on **Vercel**. The backend runs FastAPI as a serverless Python function. The frontend is a static React/Vite build. All API calls from the frontend point to the deployed backend — no local setup required to use the app.
-
----
 
 ## What is UNMAPPED?
 
@@ -91,9 +77,9 @@ vulnerable youth.
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                  country_config.json                     │
-│   Controls: labor data · education taxonomy · language   │
-│   automation calibration · opportunity types · currency  │
+│                  country_config.json                    │
+│   Controls: labor data · education taxonomy · language  │
+│   automation calibration · opportunity types · currency │
 └──────────────────────┬──────────────────────────────────┘
                        │ injected at startup, zero code changes
           ┌────────────┼────────────┐
