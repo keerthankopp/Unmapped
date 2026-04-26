@@ -1,0 +1,46 @@
+{
+  "country_name": "Ghana",
+  "country_emoji": "🇬🇭",
+  "wb_iso3": "GHA",
+  "ilostat_code": "GHA",
+  "esco_language": "en",
+  "wittgenstein_region": "SSA",
+  "informal_economy_share": 0.8,
+  "broadband_penetration": 0.19,
+  "gdp_per_capita_usd": 2363,
+  "lmic_discount_base": 0.12,
+  "infrastructure_weight": 0.15,
+  "informality_weight": 0.1,
+  "currency_label": "GHS",
+  "isced_mapping": {
+    "No formal education": 0,
+    "Primary": 1,
+    "BECE": 2,
+    "WASSCE": 3,
+    "Vocational certificate": 4,
+    "HND": 5,
+    "BSc / Bachelor": 6,
+    "MSc / Master": 7
+  },
+  "primary_sectors": [
+    "Agriculture",
+    "Wholesale & Retail Trade",
+    "Manufacturing",
+    "Construction",
+    "Transport",
+    "ICT Services"
+  ],
+  "opportunity_types": [
+    "Formal employment",
+    "Self-employment",
+    "Gig work",
+    "Training pathway"
+  ],
+  "ui": {
+    "intake_greeting": "Hello! I'm here to help you map your skills. Tell me — what kind of work have you been doing, even if it's informal or self-taught?",
+    "profile_title": "Your Skills Profile",
+    "risk_label": "Automation Risk",
+    "wage_label": "Typical Monthly Earnings (GHS)"
+  }
+}
+

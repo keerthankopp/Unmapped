@@ -1,0 +1,34 @@
+{
+  "country_name": "Kenya",
+  "country_emoji": "🇰🇪",
+  "wb_iso3": "KEN",
+  "ilostat_code": "KEN",
+  "esco_language": "en",
+  "wittgenstein_region": "SSA",
+  "informal_economy_share": 0.83,
+  "broadband_penetration": 0.22,
+  "gdp_per_capita_usd": 2193,
+  "lmic_discount_base": 0.11,
+  "infrastructure_weight": 0.14,
+  "informality_weight": 0.1,
+  "currency_label": "KES",
+  "isced_mapping": {
+    "No formal education": 0,
+    "Primary (Class 1-8)": 1,
+    "Form 1-2": 2,
+    "KCSE / Form 3-4": 3,
+    "Certificate": 4,
+    "Diploma": 5,
+    "Bachelor": 6,
+    "Master": 7
+  },
+  "primary_sectors": ["Agriculture", "Tourism & hospitality", "Trade", "Financial services", "ICT", "Construction"],
+  "opportunity_types": ["Formal employment", "Self-employment", "Gig work", "Training pathway"],
+  "ui": {
+    "intake_greeting": "Habari! Tell me about the work you do — any kind of work, formal or informal.",
+    "profile_title": "Your Skills Profile",
+    "risk_label": "Automation Risk",
+    "wage_label": "Typical Monthly Earnings (KES)"
+  }
+}
+

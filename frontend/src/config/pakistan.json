@@ -1,0 +1,34 @@
+{
+  "country_name": "Pakistan",
+  "country_emoji": "🇵🇰",
+  "wb_iso3": "PAK",
+  "ilostat_code": "PAK",
+  "esco_language": "en",
+  "wittgenstein_region": "SouthAsia",
+  "informal_economy_share": 0.73,
+  "broadband_penetration": 0.35,
+  "gdp_per_capita_usd": 1505,
+  "lmic_discount_base": 0.09,
+  "infrastructure_weight": 0.12,
+  "informality_weight": 0.1,
+  "currency_label": "PKR",
+  "isced_mapping": {
+    "No formal education": 0,
+    "Primary": 1,
+    "Middle (Class 6-8)": 2,
+    "Matric / SSC": 3,
+    "Intermediate / HSSC": 3,
+    "DAE / Diploma": 5,
+    "Bachelor": 6,
+    "Master": 7
+  },
+  "primary_sectors": ["Agriculture", "Textiles & garments", "Construction", "Trade", "Transport", "IT services"],
+  "opportunity_types": ["Formal employment", "Self-employment", "Gig work", "Training pathway"],
+  "ui": {
+    "intake_greeting": "Hello! Tell me about the work you do — formal, informal, or self-taught. All experience matters.",
+    "profile_title": "Your Skills Profile",
+    "risk_label": "Automation Risk",
+    "wage_label": "Typical Monthly Earnings (PKR)"
+  }
+}
+

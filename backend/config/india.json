@@ -1,0 +1,35 @@
+{
+  "country_name": "India",
+  "country_emoji": "🇮🇳",
+  "wb_iso3": "IND",
+  "ilostat_code": "IND",
+  "esco_language": "en",
+  "wittgenstein_region": "SouthAsia",
+  "informal_economy_share": 0.9,
+  "broadband_penetration": 0.52,
+  "gdp_per_capita_usd": 2601,
+  "lmic_discount_base": 0.08,
+  "infrastructure_weight": 0.1,
+  "informality_weight": 0.09,
+  "currency_label": "INR",
+  "isced_mapping": {
+    "No formal education": 0,
+    "Primary (Class 1-5)": 1,
+    "Middle school (Class 6-8)": 2,
+    "SSC / 10th pass": 3,
+    "HSC / 12th pass": 3,
+    "ITI / Polytechnic": 4,
+    "Diploma": 5,
+    "Bachelor (BA/BSc/BCom)": 6,
+    "Master": 7
+  },
+  "primary_sectors": ["Agriculture", "Manufacturing", "IT services", "Construction", "Trade", "Textiles"],
+  "opportunity_types": ["Formal employment", "Self-employment", "Gig work", "Training pathway"],
+  "ui": {
+    "intake_greeting": "Hello! Tell me about your work — any kind of work, skilled or unskilled, formal or informal.",
+    "profile_title": "Your Skills Profile",
+    "risk_label": "Automation Risk",
+    "wage_label": "Typical Monthly Earnings (INR)"
+  }
+}
+

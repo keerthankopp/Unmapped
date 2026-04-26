@@ -1,0 +1,34 @@
+{
+  "country_name": "Ethiopia",
+  "country_emoji": "🇪🇹",
+  "wb_iso3": "ETH",
+  "ilostat_code": "ETH",
+  "esco_language": "en",
+  "wittgenstein_region": "SSA",
+  "informal_economy_share": 0.91,
+  "broadband_penetration": 0.07,
+  "gdp_per_capita_usd": 1020,
+  "lmic_discount_base": 0.15,
+  "infrastructure_weight": 0.2,
+  "informality_weight": 0.12,
+  "currency_label": "ETB",
+  "isced_mapping": {
+    "No formal education": 0,
+    "Primary (Grade 1-6)": 1,
+    "Junior secondary (Grade 7-8)": 2,
+    "ESLCE / Grade 9-12": 3,
+    "TVET Certificate": 4,
+    "Diploma": 5,
+    "Bachelor": 6,
+    "Master": 7
+  },
+  "primary_sectors": ["Agriculture", "Manufacturing", "Construction", "Trade", "Transport", "Textiles"],
+  "opportunity_types": ["Formal employment", "Self-employment", "Training pathway"],
+  "ui": {
+    "intake_greeting": "Hello! Tell me about the work you do — any kind of work counts here.",
+    "profile_title": "Your Skills Profile",
+    "risk_label": "Automation Risk",
+    "wage_label": "Typical Monthly Earnings (ETB)"
+  }
+}
+

@@ -1,0 +1,41 @@
+{
+  "country_name": "Philippines",
+  "country_emoji": "🇵🇭",
+  "wb_iso3": "PHL",
+  "ilostat_code": "PHL",
+  "esco_language": "en",
+  "wittgenstein_region": "SoutheastAsia",
+  "informal_economy_share": 0.78,
+  "broadband_penetration": 0.47,
+  "gdp_per_capita_usd": 3623,
+  "lmic_discount_base": 0.09,
+  "infrastructure_weight": 0.11,
+  "informality_weight": 0.09,
+  "currency_label": "PHP",
+  "isced_mapping": {
+    "No formal education": 0,
+    "Elementary": 1,
+    "Junior High School": 2,
+    "Senior High School": 3,
+    "TESDA / Vocational": 4,
+    "Associate degree": 5,
+    "Bachelor": 6,
+    "Master": 7
+  },
+  "primary_sectors": [
+    "Agriculture",
+    "BPO & services",
+    "Construction",
+    "Trade",
+    "Manufacturing",
+    "Overseas work (OFW)"
+  ],
+  "opportunity_types": ["Formal employment", "Self-employment", "Gig work", "Training pathway", "Overseas pathway"],
+  "ui": {
+    "intake_greeting": "Hello! Tell me about your work — any kind of work counts, including informal or freelance.",
+    "profile_title": "Your Skills Profile",
+    "risk_label": "Automation Risk",
+    "wage_label": "Typical Monthly Earnings (PHP)"
+  }
+}
+

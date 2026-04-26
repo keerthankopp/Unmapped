@@ -1,0 +1,49 @@
+{
+  "country_name": "Bangladesh",
+  "country_emoji": "🇧🇩",
+  "wb_iso3": "BGD",
+  "ilostat_code": "BGD",
+  "esco_language": "en",
+  "wittgenstein_region": "SouthAsia",
+  "informal_economy_share": 0.85,
+  "broadband_penetration": 0.12,
+  "gdp_per_capita_usd": 2688,
+  "lmic_discount_base": 0.1,
+  "infrastructure_weight": 0.18,
+  "informality_weight": 0.12,
+  "currency_label": "BDT",
+  "isced_mapping": {
+    "No formal education": 0,
+    "Primary (Class 1-5)": 1,
+    "JSC / Junior Secondary": 2,
+    "SSC": 2,
+    "HSC": 3,
+    "Diploma": 5,
+    "Bachelor": 6,
+    "Master": 7,
+    "Madrasa Dakhil": 2,
+    "Madrasa Alim": 3
+  },
+  "primary_sectors": [
+    "Garments & Textile",
+    "Agriculture",
+    "Construction",
+    "Transport",
+    "Wholesale & Retail Trade",
+    "Remittance-linked Services"
+  ],
+  "opportunity_types": [
+    "Formal employment",
+    "Self-employment",
+    "Gig work",
+    "Training pathway",
+    "Migration pathway"
+  ],
+  "ui": {
+    "intake_greeting": "Hello! I'm here to help you understand your skills and find opportunities. Tell me — what work have you done, even if it was informal, seasonal, or self-taught?",
+    "profile_title": "Your Skills Profile",
+    "risk_label": "Automation Risk",
+    "wage_label": "Typical Monthly Earnings (BDT)"
+  }
+}
+

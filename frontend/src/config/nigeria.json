@@ -1,0 +1,33 @@
+{
+  "country_name": "Nigeria",
+  "country_emoji": "🇳🇬",
+  "wb_iso3": "NGA",
+  "ilostat_code": "NGA",
+  "esco_language": "en",
+  "wittgenstein_region": "SSA",
+  "informal_economy_share": 0.92,
+  "broadband_penetration": 0.14,
+  "gdp_per_capita_usd": 2184,
+  "lmic_discount_base": 0.13,
+  "infrastructure_weight": 0.16,
+  "informality_weight": 0.11,
+  "currency_label": "NGN",
+  "isced_mapping": {
+    "No formal education": 0,
+    "Primary": 1,
+    "Junior WAEC": 2,
+    "WAEC / NECO": 3,
+    "OND": 5,
+    "HND / BSc": 6,
+    "MSc / MBA": 7
+  },
+  "primary_sectors": ["Agriculture", "Oil & Gas services", "Trade", "Construction", "ICT", "Manufacturing"],
+  "opportunity_types": ["Formal employment", "Self-employment", "Gig work", "Training pathway"],
+  "ui": {
+    "intake_greeting": "Hello! Tell me about the work you do — formal, informal, or self-taught. Everything counts.",
+    "profile_title": "Your Skills Profile",
+    "risk_label": "Automation Risk",
+    "wage_label": "Typical Monthly Earnings (NGN)"
+  }
+}
+
